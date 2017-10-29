@@ -1,0 +1,1 @@
+This is a pretty simple version of this script. For most uses get-RogueAdmins found at https://github.com/0x44616e69656c/get-RogueAdmins will be a more complete solution. 
